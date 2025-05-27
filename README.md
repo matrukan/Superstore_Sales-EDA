@@ -18,8 +18,7 @@ Key analysis areas:
 1. Sales Analysis by Product Category
 2.  Monthly Sales Trend
 3.  Customer segmentation (RFM analysis)
-    This visualization shows our customer segmentation based on
-    R-Recency (how recently they purchased) F- Frequency (how often they purchase) M- Monetary value (how much they spend)
+    -customer segmentation based on R-Recency (how recently they purchased) F- Frequency (how often they purchase) M- Monetary value (how much they spend)
 5. Profitability by category and region
 6. Geographic Analysis 
     - Top 10 States by Profit
