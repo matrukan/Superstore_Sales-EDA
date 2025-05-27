@@ -23,9 +23,9 @@ Key analysis areas:
     Frequency (how often they purchase)
     Monetary value (how much they spend)
 4. Profitability by category and region
-5.Geographic Analysis 
-  - Top 10 States by Profit
-  - Sales by Region
+5. Geographic Analysis 
+    Top 10 States by Profit
+    Sales by Region
 6. Top Customers by Sales
 7.  Shipping and operational efficiency
 
