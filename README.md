@@ -15,25 +15,25 @@ This project analyzes a Superstore dataset containing:
 - Data spanning 2014-2017
 
 Key analysis areas:
-### Sales Analysis by Product Category
+## 1. Sales Analysis by Product Category
   
-### Monthly Sales Trend
+## 2. Monthly Sales Trend
  
-### Customer segmentation (RFM analysis)
+## 3. Customer segmentation (RFM analysis)
   This visualization shows our customer segmentation based on:
   Recency (how recently they purchased)
   Frequency (how often they purchase)
   Monetary value (how much they spend)
 
-### Profitability by category and region
+## 4. Profitability by category and region
   
-### Geographic Analysis 
-  - Top 10 States by Profit
-  - Sales by Region
+## 5.Geographic Analysis 
+  - **Top 10 States by Profit**
+  - **Sales by Region**
 
-### Top Customers by Sales
+## 6. Top Customers by Sales
 
-### Shipping and operational efficiency
+## 7. Shipping and operational efficiency
 
 ## 🛠️ Technologies Used
 - **Python 3.8+**
