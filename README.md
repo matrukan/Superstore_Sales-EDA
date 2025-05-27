@@ -16,6 +16,7 @@ This project analyzes a Superstore dataset containing:
 
 Key analysis areas:
 - Sales trends and product performance
+  images/Monthly-sale-trend.png
 - Profitability by category and region
 - Customer segmentation (RFM analysis)
 - Shipping and operational efficiency
